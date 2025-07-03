@@ -1,7 +1,9 @@
 import pandas as pd
 from backend.data_collection import get_mood_entries
+from typing import Dict, Any
 
-def get_trends():
+def get_trends() -> Dict[str, Any]:
+    """Return mood trends including rolling mean for the last 7 days."""
     entries = get_mood_entries()
     if not entries:
         return {}

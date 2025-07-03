@@ -1,7 +1,9 @@
 from backend.trend_analysis import get_trends
 from backend.pattern_detection import detect_patterns
+from typing import List
 
-def get_recommendations():
+def get_recommendations() -> List[str]:
+    """Generate personalized recommendations based on trends and detected patterns."""
     trends = get_trends()
     patterns = detect_patterns()
     recs = []
