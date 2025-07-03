@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+motor
+streamlit
+requests
+pandas
+scikit-learn
+nltk
+textblob
+plotly
+prophet
+wordcloud
+python-dotenv 

@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "2024-06-01T08:00:00",
+    "mood": "Happy",
+    "mood_score": 7,
+    "emoji": "😊",
+    "tags": ["productive", "happy"],
+    "journal_text": "Had a great start to the month!"
+  },
+  {
+    "timestamp": "2024-06-02T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["neutral", "calm"],
+    "journal_text": "A regular day, nothing special."
+  },
+  {
+    "timestamp": "2024-06-03T08:00:00",
+    "mood": "Sad",
+    "mood_score": 3,
+    "emoji": "😢",
+    "tags": ["tired", "low"],
+    "journal_text": "Felt a bit down and tired today."
+  },
+  {
+    "timestamp": "2024-06-04T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["work", "productive"],
+    "journal_text": "Focused on work, felt accomplished."
+  },
+  {
+    "timestamp": "2024-06-05T08:00:00",
+    "mood": "Happy",
+    "mood_score": 8,
+    "emoji": "😊",
+    "tags": ["excited", "energetic"],
+    "journal_text": "Very energetic and excited for new project."
+  },
+  {
+    "timestamp": "2024-06-06T08:00:00",
+    "mood": "Tired",
+    "mood_score": 4,
+    "emoji": "😴",
+    "tags": ["sleepy", "lazy"],
+    "journal_text": "Felt sleepy most of the day."
+  },
+  {
+    "timestamp": "2024-06-07T08:00:00",
+    "mood": "Sad",
+    "mood_score": 2,
+    "emoji": "😢",
+    "tags": ["sad", "low"],
+    "journal_text": "Had a tough day emotionally."
+  },
+  {
+    "timestamp": "2024-06-08T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["relaxed", "fun"],
+    "journal_text": "Relaxed and enjoyed the weekend."
+  },
+  {
+    "timestamp": "2024-06-09T08:00:00",
+    "mood": "Happy",
+    "mood_score": 7,
+    "emoji": "😊",
+    "tags": ["family", "happy"],
+    "journal_text": "Spent time with family, felt happy."
+  },
+  {
+    "timestamp": "2024-06-10T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["work", "normal"],
+    "journal_text": "Back to work, average day."
+  },
+  {
+    "timestamp": "2024-06-11T08:00:00",
+    "mood": "Tired",
+    "mood_score": 4,
+    "emoji": "😴",
+    "tags": ["tired", "slow"],
+    "journal_text": "Felt slow and tired."
+  },
+  {
+    "timestamp": "2024-06-12T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["productive", "work"],
+    "journal_text": "Productive work day."
+  },
+  {
+    "timestamp": "2024-06-13T08:00:00",
+    "mood": "Happy",
+    "mood_score": 8,
+    "emoji": "😊",
+    "tags": ["joy", "success"],
+    "journal_text": "Achieved a personal goal!"
+  },
+  {
+    "timestamp": "2024-06-14T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["routine", "normal"],
+    "journal_text": "Routine day, nothing new."
+  },
+  {
+    "timestamp": "2024-06-15T08:00:00",
+    "mood": "Sad",
+    "mood_score": 3,
+    "emoji": "😢",
+    "tags": ["down", "tired"],
+    "journal_text": "Felt a bit down."
+  },
+  {
+    "timestamp": "2024-06-16T08:00:00",
+    "mood": "Happy",
+    "mood_score": 7,
+    "emoji": "😊",
+    "tags": ["family", "fun"],
+    "journal_text": "Fun day with family."
+  },
+  {
+    "timestamp": "2024-06-17T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["work", "productive"],
+    "journal_text": "Focused and productive."
+  },
+  {
+    "timestamp": "2024-06-18T08:00:00",
+    "mood": "Tired",
+    "mood_score": 4,
+    "emoji": "😴",
+    "tags": ["tired", "slow"],
+    "journal_text": "Slow start, but improved later."
+  },
+  {
+    "timestamp": "2024-06-19T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["average", "work"],
+    "journal_text": "Average work day."
+  },
+  {
+    "timestamp": "2024-06-20T08:00:00",
+    "mood": "Happy",
+    "mood_score": 8,
+    "emoji": "😊",
+    "tags": ["excited", "achievement"],
+    "journal_text": "Achieved something big at work!"
+  },
+  {
+    "timestamp": "2024-06-21T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["relaxed", "weekend"],
+    "journal_text": "Relaxed and enjoyed the day."
+  },
+  {
+    "timestamp": "2024-06-22T08:00:00",
+    "mood": "Happy",
+    "mood_score": 7,
+    "emoji": "😊",
+    "tags": ["happy", "family"],
+    "journal_text": "Happy day with family."
+  },
+  {
+    "timestamp": "2024-06-23T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["normal", "routine"],
+    "journal_text": "Routine day."
+  },
+  {
+    "timestamp": "2024-06-24T08:00:00",
+    "mood": "Tired",
+    "mood_score": 4,
+    "emoji": "😴",
+    "tags": ["tired", "slow"],
+    "journal_text": "Tired but managed to finish work."
+  },
+  {
+    "timestamp": "2024-06-25T08:00:00",
+    "mood": "Sad",
+    "mood_score": 3,
+    "emoji": "😢",
+    "tags": ["down", "sad"],
+    "journal_text": "Felt sad today."
+  },
+  {
+    "timestamp": "2024-06-26T08:00:00",
+    "mood": "Happy",
+    "mood_score": 6,
+    "emoji": "😊",
+    "tags": ["work", "productive"],
+    "journal_text": "Productive at work."
+  },
+  {
+    "timestamp": "2024-06-27T08:00:00",
+    "mood": "Happy",
+    "mood_score": 7,
+    "emoji": "😊",
+    "tags": ["happy", "relaxed"],
+    "journal_text": "Relaxed and happy."
+  },
+  {
+    "timestamp": "2024-06-28T08:00:00",
+    "mood": "Calm",
+    "mood_score": 5,
+    "emoji": "😐",
+    "tags": ["routine", "normal"],
+    "journal_text": "Routine day."
+  },
+  {
+    "timestamp": "2024-06-29T08:00:00",
+    "mood": "Tired",
+    "mood_score": 4,
+    "emoji": "😴",
+    "tags": ["tired", "lazy"],
+    "journal_text": "Lazy Saturday."
+  },
+  {
+    "timestamp": "2024-06-30T08:00:00",
+    "mood": "Happy",
+    "mood_score": 8,
+    "emoji": "😊",
+    "tags": ["joy", "fun"],
+    "journal_text": "Great end to the month!"
+  }
+] 
