@@ -67,5 +67,24 @@ mood-tracker/
 - Select your mood, score, tags, and write a journal entry.
 - View mood trends, low mood days, and get personalized recommendations.
 
+## Result Output
+
+### Log Today's Mood
+![Log Today's Mood](doc/images/log_todays_mood.png)
+
+### Mood Trend Chart
+![Mood Trend Chart](doc/images/mood_trend_chart.png)
+
+### Word Cloud
+![Word Cloud](doc/images/word_cloud.png)
+
+### Weekly Summary
+![Weekly Summary](doc/images/weekly_summary.png)
+
+### Personalized Recommendations
+![Recommendations](doc/images/recommendations.png)
+
+Each section is designed to give you insights into your emotional well-being and help you track your mental health over time.
+
 ---
 For questions or contributions, open an issue or pull request! 
